@@ -35,9 +35,7 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
-Hi, I’m Denise.
-
-I am a third year Ph.D. candidate in Industrial Engineering and Operations Research at the [University of California, Berkeley](https://www.berkeley.edu/), advised by [Prof. Chiwei Yan](https://yanchiwei.github.io/). I also collaborate with [Prof. Hongyao Ma](https://www.hongyaoma.com/) from Columbia Business School.
+Hi! I am a third year Ph.D. candidate in Industrial Engineering and Operations Research at the [University of California, Berkeley](https://www.berkeley.edu/), advised by [Prof. Chiwei Yan](https://yanchiwei.github.io/). I also collaborate with [Prof. Hongyao Ma](https://www.hongyaoma.com/) from Columbia Business School.
 
 <!-- My research sits at the intersection of **operations research, game theory, and economic design**, with an emphasis on **dynamic and strategic decision-making in queueing and congestion systems**. -->
 
