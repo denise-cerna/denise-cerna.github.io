@@ -90,10 +90,10 @@ Teaching
 
 <!-- ----- -->
 
-Beyond Academia
+<!-- Beyond Academia
 -----
 
-During my free time, I’m usually chasing beautiful views and type 2 fun anywhere outside - whether it is rock climbing, cycling, skiing, or backpacking!
+During my free time, I’m usually chasing beautiful views and type 2 fun anywhere outside - whether it is rock climbing, cycling, skiing, or backpacking! -->
 
 <!-- I love long days outside, big views, and the kind of *type-2 fun* that makes the post-trip coffee taste even better. -->
 
