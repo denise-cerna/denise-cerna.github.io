@@ -1,5 +1,13 @@
 ---
-layout: archive
+permalink: /cv/
+redirect_to: /files/cv.pdf
+redirect_from:
+  - /resume
+---
+
+<!-- ---
+# layout: archive
+layout: none
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,6 +15,22 @@ redirect_from:
   - /resume
 ---
 
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/files/cv.pdf">
+    <link rel="canonical" href="/files/cv.pdf">
+  </head>
+  <body>
+    <p>
+      If the PDF does not open automatically,
+      <a href="/files/cv.pdf">click here</a>.
+    </p>
+  </body>
+</html>
+
+<!-- 
 {% include base_path %}
 
 Education
@@ -61,4 +85,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams --> -->

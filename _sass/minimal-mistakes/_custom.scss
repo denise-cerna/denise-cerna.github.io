@@ -1,0 +1,29 @@
+/* Slate link styling */
+:root {
+  --mm-link-color: #445b55;        /* slate */
+  --mm-link-color-hover: #2f3f3b;  /* darker slate */
+}
+
+/* Remove underline */
+.page__content a {
+  text-decoration: none;
+}
+
+/* Optional: subtle hover cue (recommended) */
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+/* FORCE slate links in page content */
+.page__content a,
+.page__content a:visited {
+  color: #445b55 !important;   /* slate */
+  text-decoration: none;
+}
+
+.page__content a:hover,
+.page__content a:focus {
+  color: #2f3f3b !important;   /* darker slate */
+  text-decoration: none;
+  opacity: 0.85;
+}

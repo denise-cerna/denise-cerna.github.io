@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third year Ph.D. candidate in Industrial Engineering and Operations Research at the University of California, Berkeley, advised by [Prof. Chiwei Yan](https://yanchiwei.github.io/). I am also collaborating with [Prof. Hongyao Ma](https://www.hongyaoma.com/) from Columbia Business School. Before starting graduate school I did my bachelors double majoring in Mathematical Analytics and Operations Research and Economics from the University of California, Davis.
+<!-- Hi! I am a third year Ph.D. candidate in Industrial Engineering and Operations Research at the University of California, Berkeley, advised by [Prof. Chiwei Yan](https://yanchiwei.github.io/). I am also collaborating with [Prof. Hongyao Ma](https://www.hongyaoma.com/) from Columbia Business School. 
+
+Before starting graduate school I did my bachelors double majoring in Mathematical Analytics and Operations Research and Economics from the University of California, Davis. -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -31,8 +33,72 @@ Getting started
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
+Hi, I’m Denise.
+
+I am a third year Ph.D. candidate in Industrial Engineering and Operations Research at the [University of California, Berkeley](https://www.berkeley.edu/), advised by [Prof. Chiwei Yan](https://yanchiwei.github.io/). I also collaborate with [Prof. Hongyao Ma](https://www.hongyaoma.com/) from Columbia Business School.
+
+<!-- My research sits at the intersection of **operations research, game theory, and economic design**, with an emphasis on **dynamic and strategic decision-making in queueing and congestion systems**. -->
+
+Before coming to Berkeley, I completed a double major in [Mathematical Analytics & Operations Research](https://www.math.ucdavis.edu/?_gl=1*77po8d*_ga*MTU1MzcyMDAyNS4xNzY2NzE2NjIx*_ga_2N9JP0W2PC*czE3NjY3MTc4OTgkbzEkZzAkdDE3NjY3MTc5MDMkajU1JGwwJGgw) and [Economics](https://economics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/).
+
+-----
+
+Research Interests
+-----
+
+My work focuses on **dynamic games** and **queueing systems**, combining tools from operations research, game theory, and mechanism design. I am intereste in developping computational methods to analyze equilibrium behavior in strategic environments motivated by real-world applications such as:
+
+- Rideshare dispatch and congestion management  
+- Allocation mechanisms for organ transplant waitlists  
+
+I am particularly interested in how system design, incentives, and information shape efficiency and strategic behavior in large-scale operational systems.
+
+-----
+
+Preprints
+-----
+
+- **Cerna, D., Yan, C., Ma, H.** *An Equilibrium Solver for a Dynamic Queueing Game* [[Code]](https://github.com/denise-cerna/queue-equilibrium-solver/)
+
+-----
+
+Conference Proceedings
+-----
+
+- **Cerna, D., Yan, C., Ma, H.** [*An Equilibrium Solver for a Dynamic Queueing Game*](https://dl.acm.org/doi/abs/10.1145/3736252.3742608), 26th ACM Conference on Economics and Computation (EC ’25), Stanford, CA, 2025.
+
+-----
+
+Teaching
+------
+
+**Graduate Student Instructor (UC Berkeley)**
+
+- IEOR 153 — Logistics Network Design and Supply Chain Management *(Fall 2024, Fall 2025)*
+
+- IEOR 253 — Supply Chain and Logistics Management *(Spring 2025)*
+
+- IEOR 180 — Senior Project *(Spring 2026)*
+
+-----
+
+Beyond Academia
+-----
+
+During my free time, I’m usually chasing beautiful views and type-2 fun anywhere outside - whether it is rock climbing, cycling, skiing, or backpacking!
+
+<!-- I love long days outside, big views, and the kind of *type-2 fun* that makes the post-trip coffee taste even better. -->
+
+<!-- <div class="beyond-carousel">
+  <img src="{{ '/assets/beyond/climbing.jpg' | relative_url }}" alt="Rock climbing">
+  <img src="{{ '/assets/beyond/cycling.jpg' | relative_url }}" alt="Cycling">
+  <img src="{{ '/assets/beyond/skiing.jpg' | relative_url }}" alt="Skiing">
+  <img src="{{ '/assets/beyond/backpacking.jpg' | relative_url }}" alt="Backpacking">
+</div> -->
+
+<!-- 
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
@@ -55,4 +121,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
