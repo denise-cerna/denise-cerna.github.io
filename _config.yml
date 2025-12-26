@@ -363,5 +363,4 @@ compress_html:
   ignore:
     envs: development
 
-minimal_mistakes_skin: default
-enable_darkmode: false
+
