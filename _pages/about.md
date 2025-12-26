@@ -43,7 +43,7 @@ I am a third year Ph.D. candidate in Industrial Engineering and Operations Resea
 
 Before coming to Berkeley, I completed a double major in [Mathematical Analytics & Operations Research](https://www.math.ucdavis.edu/?_gl=1*77po8d*_ga*MTU1MzcyMDAyNS4xNzY2NzE2NjIx*_ga_2N9JP0W2PC*czE3NjY3MTc4OTgkbzEkZzAkdDE3NjY3MTc5MDMkajU1JGwwJGgw) and [Economics](https://economics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/).
 
------
+<!-- ----- -->
 
 Research Interests
 -----
@@ -55,21 +55,27 @@ My work focuses on **dynamic games** and **queueing systems**, combining tools f
 
 I am particularly interested in how system design, incentives, and information shape efficiency and strategic behavior in large-scale operational systems.
 
------
+<!-- ----- -->
 
-Preprints
------
-
-- **Cerna, D., Yan, C., Ma, H.** *An Equilibrium Solver for a Dynamic Queueing Game* [[Code]](https://github.com/denise-cerna/queue-equilibrium-solver/)
-
------
+<!-- ----- -->
 
 Conference Proceedings
 -----
 
 - **Cerna, D., Yan, C., Ma, H.** [*An Equilibrium Solver for a Dynamic Queueing Game*](https://dl.acm.org/doi/abs/10.1145/3736252.3742608), 26th ACM Conference on Economics and Computation (EC ’25), Stanford, CA, 2025.
 
+Working Papers
 -----
+
+- **Cerna, D., Yan, C., Ma, H.** *An Equilibrium Solver for a Dynamic Queueing Game* [[Code]](https://github.com/denise-cerna/queue-equilibrium-solver/)
+
+<!-- ----- -->
+
+Talks
+------
+
+- ACM Conference on Economics and Computation (EC'25), Stanford University (July 2025)
+- INFORMS Annual Meeting, Atlanta, GA (October 2025)
 
 Teaching
 ------
@@ -82,7 +88,7 @@ Teaching
 
 - IEOR 180 — Senior Project *(Spring 2026)*
 
------
+<!-- ----- -->
 
 Beyond Academia
 -----
