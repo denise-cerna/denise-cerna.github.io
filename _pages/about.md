@@ -65,7 +65,7 @@ Conference Proceedings
 Working Papers
 -----
 
-- **Cerna, D., Yan, C., Ma, H.** *An Equilibrium Solver for a Dynamic Queueing Game* [[Code]](https://github.com/denise-cerna/queue-equilibrium-solver/)
+- **Cerna, D., Yan, C., Ma, H.** [*An Equilibrium Solver for a Dynamic Queueing Game*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5282750) [[Code]](https://github.com/denise-cerna/queue-equilibrium-solver/)
 
 <!-- ----- -->
 
