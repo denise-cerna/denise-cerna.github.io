@@ -39,7 +39,7 @@ Hi! I am a third year Ph.D. candidate in Industrial Engineering and Operations R
 
 <!-- My research sits at the intersection of **operations research, game theory, and economic design**, with an emphasis on **dynamic and strategic decision-making in queueing and congestion systems**. -->
 
-Before coming to Berkeley, I completed a double major in [Mathematical Analytics & Operations Research](https://www.math.ucdavis.edu/?_gl=1*77po8d*_ga*MTU1MzcyMDAyNS4xNzY2NzE2NjIx*_ga_2N9JP0W2PC*czE3NjY3MTc4OTgkbzEkZzAkdDE3NjY3MTc5MDMkajU1JGwwJGgw) and [Economics](https://economics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/).
+Before coming to Berkeley, I completed a double major in Mathematical Analytics & Operations Research and Economics at the [University of California, Davis](https://www.ucdavis.edu/).
 
 <!-- ----- -->
 
