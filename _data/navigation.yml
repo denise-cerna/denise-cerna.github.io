@@ -20,11 +20,12 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Beyond Research"
-  #   url: /year-archive/
-    
   - title: "CV"
     url: /cv/
+    
+  # - title: "Beyond Research"
+  # - title: "Beyond Research"
+  #   url: /beyond-research/
     
   # - title: "CV"
   #   url: /cv-json/

@@ -60,12 +60,12 @@ I am particularly interested in how system design, incentives, and information s
 Conference Proceedings
 -----
 
-- **Cerna, D., Yan, C., Ma, H.** [*An Equilibrium Solver for a Dynamic Queueing Game*](https://dl.acm.org/doi/abs/10.1145/3736252.3742608), 26th ACM Conference on Economics and Computation (EC ’25), Stanford, CA, 2025.
+- **Cerna, D.**, Yan, C., Ma, H. [*An Equilibrium Solver for a Dynamic Queueing Game*](https://dl.acm.org/doi/abs/10.1145/3736252.3742608), 26th ACM Conference on Economics and Computation (EC ’25), Stanford, CA, 2025.
 
 Working Papers
 -----
 
-- **Cerna, D., Yan, C., Ma, H.** [*An Equilibrium Solver for a Dynamic Queueing Game*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5282750) [[Code]](https://github.com/denise-cerna/queue-equilibrium-solver/)
+- **Cerna, D.**, Yan, C., Ma, H. [*An Equilibrium Solver for a Dynamic Queueing Game*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5282750) [[Code]](https://github.com/denise-cerna/queue-equilibrium-solver/)
 
 <!-- ----- -->
 
