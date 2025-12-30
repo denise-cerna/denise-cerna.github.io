@@ -46,9 +46,9 @@ Before coming to Berkeley, I completed a double major in Mathematical Analytics 
 Research Interests
 -----
 
-My work focuses on **dynamic games** and **queueing systems**, combining tools from operations research, game theory, and mechanism design. I am interested in developping computational methods to analyze equilibrium behavior in strategic environments motivated by real-world applications such as:
+My current work focuses on **dynamic games** and **queueing systems**, combining tools from operations research and game theory with an increasing emphasis on machine learning and AI. I am interested in developing computational methods to analyze equilibrium behavior in strategic environments motivated by real-world applications such as:
 
-- Rideshare dispatch and congestion management  
+- Algorithms for rideshare dispatch and congestion management  
 - Allocation mechanisms for organ transplant waitlists  
 
 I am particularly interested in how system design, incentives, and information shape efficiency and strategic behavior in large-scale operational systems.
