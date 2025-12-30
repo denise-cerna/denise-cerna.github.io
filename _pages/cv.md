@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-redirect_to: /files/Denise_Cerna_CV.pdf
+redirect_to: /files/cv.pdf
 redirect_from:
   - /resume
 ---
