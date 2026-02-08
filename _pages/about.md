@@ -48,7 +48,7 @@ Research Interests
 
 I am broadly interested in understanding how platform design decisions shape user behavior and operational efficiency in real-world settings. 
 
-My current work focuses on **dynamic games** and **queueing systems**, combining tools from operations research and game theory with an increasing emphasis on machine learning methods. In particular, I have been developing computational tools to analyze equilibrium behavior in strategic environments motivated by real-world applications such as:
+My current work focuses on **dynamic games** and **queueing systems**, combining methods from optimization and game theory with an increasing emphasis on incorporating machine learning techniques. In particular, I have been developing computational tools to analyze equilibrium behavior in strategic environments motivated by real-world applications such as:
 
 - Algorithms for rideshare dispatch and congestion management  
 - Allocation mechanisms for organ transplant waitlists  
