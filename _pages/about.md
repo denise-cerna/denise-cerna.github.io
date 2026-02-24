@@ -46,7 +46,7 @@ Before coming to Berkeley, I completed a double major in Mathematical Analytics 
 Research Interests
 -----
 
-I am broadly interested in understanding how platform design decisions shape user behavior and operational efficiency in real-world settings. 
+I am broadly interested in understanding how market design decisions shape user behavior and operational efficiency in real-world settings. 
 
 My current work focuses on **dynamic games** and **queueing systems**, combining methods from optimization and game theory with an increasing emphasis on incorporating machine learning techniques. In particular, I have been developing computational tools to analyze equilibrium behavior in strategic environments motivated by applications such as:
 
