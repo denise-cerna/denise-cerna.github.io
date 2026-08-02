@@ -77,19 +77,28 @@ Talks
 
 - ACM Conference on Economics and Computation (EC'25), Stanford University (July 2025)
 - INFORMS Annual Meeting, Atlanta, GA (October 2025)
+- INFORMS MSOM Conference, Cambridge, MA (July 2026)
+- Games and Artificial Intelligence Multidisciplinary Summer School, Bonn, Germany (July 2026)
+
 
 Teaching
 ------
 
 **Graduate Student Instructor (UC Berkeley)**
 
-- IEOR 153 — Logistics Network Design and Supply Chain Management *(Fall 2024, Fall 2025)*
+- IEOR 153 — Logistics Network Design and Supply Chain Management *(Fall 2024, Fall 2025, Fall 2026)*
 
 - IEOR 253 — Supply Chain and Logistics Management *(Spring 2025)*
 
 - IEOR 180 — Senior Project *(Spring 2026)*
 
 <!-- ----- -->
+Awards
+------
+
+- Katta G. Murty Prize for Best Paper in Optimization (Berkeley IEOR, 2026)
+- Best Poster Award (GAIMSS, 2026)
+
 
 <!-- Beyond Academia
 -----
